@@ -1,1 +1,0 @@
-drop WAREHOUSE TEST_WH;
