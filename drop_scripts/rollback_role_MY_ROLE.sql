@@ -1,1 +1,0 @@
-DROP ROLE MY_ROLE;
